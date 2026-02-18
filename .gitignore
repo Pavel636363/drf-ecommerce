@@ -1,0 +1,14 @@
+# Виртуальное окружение
+.venv/
+
+# IDE
+.idea/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Django collectstatic (если есть)
+staticfiles/
+
